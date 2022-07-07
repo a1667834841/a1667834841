@@ -3,12 +3,12 @@
 
 <html>
     <table style="margin-left: auto; margin-right: auto;">
-        <tr style="border: 0px;">
-            <td style="border: 0px;">
+        <tr>
+            <td style="border-color: white;">
                 <!--左侧内容-->
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a1667834841&show_icons=true&count_private=true&theme=gotham">
             </td>
-            <td>
+            <td style="border-color: white;">
                 <!--右侧内容-->
                 <img src="https://github-readme-stats.vercel.app/api?username=a1667834841">
             </td>
