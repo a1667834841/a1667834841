@@ -2,9 +2,8 @@
 
 ### ggball
 
-**Backend · AI · Automation**
 
-*Building things I wish existed.*
+*Building things I wish existed — with code, automation, and AI.*
 
 `Go` · `Java` · `AI Agents` · `RAG` · `MCP`
 
