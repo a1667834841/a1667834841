@@ -19,13 +19,10 @@
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a1667834841&theme=github_dark"
-    width="430"
+    width="48%"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a1667834841&theme=github_dark"
-    width="430"
+    width="48%"
   />
 </p>
