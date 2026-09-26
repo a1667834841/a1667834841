@@ -1,16 +1,4 @@
-<div align="left">
-
-<img
-  align="right"
-  width="330"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a1667834841&theme=github_dark"
-/>
-
-<img
-  align="right"
-  width="330"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a1667834841&theme=github_dark"
-/>
+<div align="center">
 
 ### ggball
 
@@ -22,6 +10,22 @@
 
 [ggball.top](https://www.ggball.top)
 
-<br clear="both"/>
-
 </div>
+
+---
+
+### `GitHub Stats`
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a1667834841&theme=github_dark"
+    width="430"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a1667834841&theme=github_dark"
+    width="430"
+  />
+</p>
